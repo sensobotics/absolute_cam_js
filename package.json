@@ -5,6 +5,6 @@
     "start": "node gui.js"
   },
   "dependencies": {
-    "opencv": "git@github.com:sensobotics/node-opencv.git#v3.0.0"
+    "opencv": "git://github.com/sensobotics/node-opencv.git#v3.0.0"
   }
 }
