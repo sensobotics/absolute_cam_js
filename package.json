@@ -1,0 +1,10 @@
+{
+  "name": "absolute_cam",
+  "private": true,
+  "scripts": {
+    "start": "node gui.js"
+  },
+  "dependencies": {
+    "opencv": "git@github.com:sensobotics/node-opencv.git#v3.0.0"
+  }
+}
